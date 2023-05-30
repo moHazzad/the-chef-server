@@ -1,0 +1,288 @@
+[
+    {
+      "id": "1",
+      "chef_picture": "https://i.insider.com/5ac2829e10d6bb26008b45d8?width=1000&format=jpeg&auto=webp",
+      "chef_name": "Alice Smith",
+      "years_of_experience": 10,
+      "num_recipes": 50,
+      "likes": 1000,
+      "ViewRecipes": "View Recipes",
+      "bio": "Alice Smith is a professional chef with over 10 years of experience in the culinary industry. She is known for her creative and delicious recipes that combine traditional techniques with modern flavors.",
+      "recipes": [
+        {
+          "recipe_name": "Spicy Chicken Curry",
+          "ingredients": [
+            "chicken",
+            "coconut milk",
+            "tomatoes",
+            "onions",
+            "garlic"
+          ],
+          "cooking_method": "1. Heat oil in a large pot over medium heat. 2. Add onions and garlic, cook until fragrant. 3. Add chicken and cook until browned. 4. Add tomatoes and coconut milk, bring to a simmer. 5. Add spices and cook until chicken is tender.",
+          "rating": 4.5,
+          "favorite": false
+        },
+        {
+          "recipe_name": "Grilled Salmon with Lemon and Herbs",
+          "ingredients": ["salmon", "lemon", "olive oil", "thyme", "rosemary"],
+          "cooking_method": "1. Preheat grill to medium-high heat. 2. Brush salmon with olive oil and season with salt and pepper. 3. Grill salmon for 4-5 minutes per side. 4. Remove from grill and sprinkle with lemon juice and herbs.",
+          "rating": 4.8,
+          "favorite": true
+        },
+        {
+          "recipe_name": "Pesto Pasta with Roasted Vegetables",
+          "ingredients": ["pasta", "pesto", "zucchini", "eggplant", "red pepper"],
+          "cooking_method": "1. Preheat oven to 400 degrees F. 2. Toss vegetables with olive oil, salt, and pepper. 3. Roast for 20-25 minutes, until tender. 4. Cook pasta according to package instructions. 5. Toss pasta with pesto and roasted vegetables.",
+          "rating": 4.3,
+          "favorite": false
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "chef_picture": "https://static.standard.co.uk/2022/06/29/15/newFile-9.jpg?width=1024&auto=webp&quality=50&crop=968%3A645%2Csmart",
+      "chef_name": "Alen Rodriguez",
+      "years_of_experience": 15,
+      "num_recipes": 100,
+      "likes": 2000,
+      "ViewRecipes": "View Recipes",
+      "bio": "Maria Rodriguez is a classically trained chef with over 15 years of experience in some of the world's most prestigious kitchens. She is passionate about using fresh, seasonal ingredients and traditional techniques to create dishes that are both beautiful and delicious.",
+      "recipes": [
+        {
+          "recipe_name": "Risotto with Wild Mushrooms",
+          "ingredients": [
+            "arborio rice",
+            "wild mushrooms",
+            "shallots",
+            "white wine",
+            "parmesan cheese"
+          ],
+          "cooking_method": "1. Heat butter in a large saucepan over medium heat. 2. Add shallots and cook until translucent. 3. Add rice and stir to coat. 4. Add wine and cook until absorbed. 5. Gradually add hot stock, stirring constantly. 6. Add mushrooms and cook until rice is tender. 7. Stir in cheese and serve.",
+          "rating": 4.7,
+          "favorite": true
+        },
+        {
+          "recipe_name": "Lamb Chops with Mint Pesto",
+          "ingredients": [
+            "lamb chops",
+            "mint leaves",
+            "garlic",
+            "lemon juice",
+            "olive oil"
+          ],
+          "cooking_method": "1. Preheat grill to medium-high heat. 2. Season lamb chops with salt and pepper. 3. Grill lamb chops for 3-4 minutes per side. 4. Combine mint, garlic, lemon juice, and olive oil in a blender. 5. Serve lamb chops with mint pesto.",
+          "rating": 4.9,
+          "favorite": true
+        },
+        {
+          "recipe_name": "Roast Chicken with Herbed Potatoes",
+          "ingredients": ["chicken", "potatoes", "rosemary", "thyme", "garlic"],
+          "cooking_method": "1. Preheat oven to 375 degrees F. 2. Rub chicken with olive oil and season with salt, pepper, and herbs. 3. Place chicken in a roasting pan and roast for 1 hour. 4. Toss potatoes with olive oil, salt, pepper, and herbs. 5. Add potatoes to the pan with the chicken and roast for an additional 30 minutes.",
+          "rating": 4.6,
+          "favorite": false
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "chef_picture": "https://news.harvard.edu/wp-content/uploads/2022/12/Chef-Ben-Howe-and-DELISH-Dishes-2-1200x800.jpg",
+      "chef_name": "John Kim",
+      "years_of_experience": 20,
+      "num_recipes": 150,
+      "likes": 3000,
+      "ViewRecipes": "View Recipes",
+      "bio": "John Kim is a culinary mastermind with over 20 years of experience in the industry. He specializes in fusion cuisine, blending flavors and techniques from around the world to create dishes that are truly unique. His passion for cooking is matched only by his love of teaching others about the art of gastronomy.",
+      "recipes": [
+        {
+          "recipe_name": "Korean BBQ Tacos",
+          "ingredients": [
+            "beef short ribs",
+            "flour tortillas",
+            "kimchi",
+            "green onions",
+            "sesame seeds"
+          ],
+          "cooking_method": "1. Marinate short ribs in soy sauce, garlic, and ginger. 2. Grill short ribs until caramelized and cooked through. 3. Warm tortillas on the grill. 4. Fill tortillas with short ribs, kimchi, green onions, and sesame seeds.",
+          "rating": 4.8,
+          "favorite": true
+        },
+        {
+          "recipe_name": "Miso-Glazed Salmon",
+          "ingredients": [
+            "salmon fillets",
+            "miso paste",
+            "mirin",
+            "soy sauce",
+            "brown sugar"
+          ],
+          "cooking_method": "1. Preheat oven to 400 degrees F. 2. Whisk together miso paste, mirin, soy sauce, and brown sugar. 3. Place salmon fillets in a baking dish and brush with miso mixture. 4. Bake for 12-15 minutes, until salmon is cooked through and glazed.",
+          "rating": 4.5,
+          "favorite": false
+        },
+        {
+          "recipe_name": "Coconut Curry Noodle Soup",
+          "ingredients": [
+            "rice noodles",
+            "coconut milk",
+            "red curry paste",
+            "chicken broth",
+            "shrimp"
+          ],
+          "cooking_method": "1. Cook rice noodles according to package instructions. 2. In a large pot, combine coconut milk, red curry paste, and chicken broth. 3. Bring to a simmer and add shrimp. 4. Simmer until shrimp are cooked through. 5. Serve soup over rice noodles.",
+          "rating": 4.7,
+          "favorite": true
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "chef_picture": "https://media.istockphoto.com/id/1059836252/photo/chef-wearing-blue-apron-stirring-food-in-large-saucepan.jpg?s=612x612&w=0&k=20&c=CssBf6L7LJR_gWvTTsy8H8j_I9_T0SJXhPMfFTrXkdU=",
+      "chef_name": "Wilams Masooms",
+      "years_of_experience": 12,
+      "num_recipes": 75,
+      "likes": 1200,
+      "ViewRecipes": "View Recipes",
+      "bio": "Maria Rodriguez is a passionate chef with 12 years of experience in the culinary industry. She has a special interest in creating healthy and flavorful dishes that promote overall wellness. In her free time, she enjoys experimenting with new ingredients and cooking techniques to expand her culinary repertoire.",
+      "recipes": [
+        {
+          "recipe_name": "Quinoa Stuffed Bell Peppers",
+          "ingredients": [
+            "bell peppers",
+            "quinoa",
+            "black beans",
+            "corn",
+            "tomatoes"
+          ],
+          "cooking_method": "1. Preheat oven to 375 degrees F. 2. Cut tops off bell peppers and remove seeds. 3. Cook quinoa according to package instructions. 4. Mix cooked quinoa, black beans, corn, and diced tomatoes in a large bowl. 5. Stuff bell peppers with quinoa mixture. 6. Bake for 25-30 minutes, until peppers are tender and filling is heated through.",
+          "rating": 4.3,
+          "favorite": false
+        },
+        {
+          "recipe_name": "Grilled Chicken and Vegetable Skewers",
+          "ingredients": [
+            "chicken breast",
+            "bell peppers",
+            "red onion",
+            "zucchini",
+            "mushrooms"
+          ],
+          "cooking_method": "1. Preheat grill to medium-high heat. 2. Cut chicken breast into bite-sized pieces. 3. Cut bell peppers, red onion, and zucchini into bite-sized pieces. 4. Thread chicken and vegetables onto skewers. 5. Grill skewers for 10-12 minutes, turning occasionally, until chicken is cooked through and vegetables are tender.",
+          "rating": 4.7,
+          "favorite": true
+        },
+        {
+          "recipe_name": "Healthy Banana Oat Pancakes",
+          "ingredients": [
+            "ripe bananas",
+            "rolled oats",
+            "eggs",
+            "vanilla extract",
+            "cinnamon"
+          ],
+          "cooking_method": "1. Blend rolled oats in a blender or food processor until they form a flour-like consistency. 2. Mash ripe bananas in a large bowl. 3. Mix in blended oats, eggs, vanilla extract, and cinnamon. 4. Heat a non-stick pan over medium heat. 5. Pour batter onto pan to make pancakes. 6. Cook until bubbles form on the surface, then flip and cook until golden brown.",
+          "rating": 4.5,
+          "favorite": true
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "chef_picture": "https://static.careers360.mobi/media/articles/uploads/froala_editor/images/2020/4/11/vikas-khanna.webp",
+      "chef_name": "Jean-Paul Dubois",
+      "years_of_experience": 20,
+      "num_recipes": 150,
+      "likes": 3500,
+      "ViewRecipes": "View Recipes",
+      "bio": "Jean-Paul Dubois is a renowned French chef with 20 years of experience in the culinary arts. He is known for his expertise in classic French cuisine and his dedication to using the freshest and highest-quality ingredients. In his free time, he enjoys traveling the world to discover new flavors and culinary traditions.",
+      "recipes": [
+        {
+          "recipe_name": "Coq au Vin",
+          "ingredients": [
+            "chicken thighs",
+            "bacon",
+            "pearl onions",
+            "mushrooms",
+            "red wine"
+          ],
+          "cooking_method": "1. Preheat oven to 350 degrees F. 2. Cook bacon in a large Dutch oven until crisp. 3. Remove bacon and set aside, leaving the rendered fat in the pot. 4. Brown chicken thighs in the pot until golden brown. 5. Remove chicken and set aside. 6. Add pearl onions and mushrooms to the pot and cook until browned. 7. Deglaze the pot with red wine. 8. Return chicken and bacon to the pot. 9. Cover and bake in the oven for 1 hour.",
+          "rating": 4.8,
+          "favorite": true
+        },
+        {
+          "recipe_name": "Ratatouille",
+          "ingredients": [
+            "eggplant",
+            "zucchini",
+            "red bell pepper",
+            "onion",
+            "tomatoes"
+          ],
+          "cooking_method": "1. Preheat oven to 375 degrees F. 2. Slice eggplant, zucchini, and red bell pepper into bite-sized pieces. 3. Slice onion into thin strips. 4. Cut tomatoes into large chunks. 5. Mix vegetables in a large bowl. 6. Pour vegetable mixture into a baking dish. 7. Bake for 30-35 minutes, until vegetables are tender.",
+          "rating": 4.5,
+          "favorite": false
+        },
+        {
+          "recipe_name": "Chocolate Mousse",
+          "ingredients": [
+            "chocolate",
+            "heavy cream",
+            "egg yolks",
+            "sugar",
+            "vanilla extract"
+          ],
+          "cooking_method": "1. Melt chocolate in a double boiler. 2. Whisk egg yolks and sugar in a large bowl until pale and creamy. 3. In a separate bowl, whip heavy cream until soft peaks form. 4. Add melted chocolate and vanilla extract to egg yolk mixture and mix well. 5. Fold in whipped cream. 6. Pour mixture into individual serving dishes. 7. Chill in the refrigerator for at least 2 hours before serving.",
+          "rating": 4.9,
+          "favorite": true
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "chef_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8aPCCFYT6pJDtg8nEri2Zn6lyjMTFd7JTOvmzL9-d7tWfn53pIRWFvJwWpiHSZAz9yVo&usqp=CAU",
+      "chef_name": "Dubois Humles",
+      "years_of_experience": 12,
+      "num_recipes": 75,
+      "likes": 2200,
+      "ViewRecipes": "View Recipes",
+      "bio": "Maria Hernandez is a passionate Mexican chef who has been cooking since she was a young girl. She grew up watching her mother and grandmother in the kitchen, and they instilled in her a love of traditional Mexican cuisine. Maria has worked in restaurants all over Mexico and has developed a deep understanding of the country's diverse culinary traditions. She is committed to using fresh, locally sourced ingredients and is always looking for new ways to elevate traditional dishes.",
+      "recipes": [
+        {
+          "recipe_name": "Chiles Rellenos",
+          "recipe_img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+          "ingredients": [
+            "poblano peppers",
+            "ground beef",
+            "diced tomatoes",
+            "onion",
+            "garlic"
+          ],
+          "cooking_method": "1. Roast poblano peppers over an open flame until charred. 2. Place peppers in a paper bag and let sit for 15 minutes. 3. Peel the charred skin off the peppers and remove the seeds. 4. In a skillet, cook ground beef until browned. 5. Add diced tomatoes, onion, and garlic to the skillet and cook until soft. 6. Stuff each pepper with the beef mixture. 7. Place stuffed peppers in a baking dish and bake for 20-25 minutes at 350 degrees F.",
+          "rating": 4.7,
+          "favorite": false
+        },
+        {
+          "recipe_name": "Guacamole",
+          "recipe_img": "https://images.unsplash.com/photo-1653983483420-5bbd23c89cbf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+          "ingredients": ["avocado", "lime", "cilantro", "red onion", "tomato"],
+          "cooking_method": "1. Cut avocado in half and remove pit. 2. Scoop avocado flesh into a bowl. 3. Add lime juice and mash with a fork. 4. Finely chop cilantro and red onion and add to the bowl. 5. Dice tomato and add to the bowl. 6. Mix well and season with salt to taste.",
+          "rating": 4.9,
+          "favorite": true
+        },
+        {
+          "recipe_name": "Tamales",
+          "recipe_img": "https://images.unsplash.com/photo-1576402187878-974f70c890a5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1033&q=80",
+          "ingredients": [
+            "corn masa",
+            "pork shoulder",
+            "dried corn husks",
+            "chili powder",
+            "cumin"
+          ],
+          "cooking_method": "1. Soak dried corn husks in warm water for 30 minutes. 2. Season pork shoulder with chili powder and cumin and cook in a slow cooker for 6-8 hours. 3. Shred pork with a fork. 4. In a bowl, mix corn masa with water to make a dough. 5. Spread a thin layer of masa onto a corn husk. 6. Add a spoonful of shredded pork to the center of the masa. 7. Roll up the husk and tie with a string. 8. Steam tamales for 1-2 hours, until firm.",
+          "rating": 4.5,
+          "favorite": false
+        }
+      ]
+    }
+  ]
+  
